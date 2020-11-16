@@ -10,6 +10,14 @@ Strengths/highlights
 
 * I like that the program is flexible in terms of user input, allowing for many possible results based on the hashtag the user is interested in. Being able to search for a specific hashtag is a very useful feature. Nice idea and implementation!
 
-* 
+* The code prints the results to the console, providing useful insight as to how the sentiment scores change from sentence to sentence across different tweets. I like that it provides additional information for analysis beyond just the overall score. Great work!
 
 Potential areas for improvement
+
+* It might be useful to add a feature that allows the user to enter more than one hashtag and compares the results for each hashtag entered. An example user story might be a consumer who is shopping online but is struggling to decide between two brands or products.
+
+* Instead of printing each individual sentence score to the console, it might be better to save those to a text file like you do with the tweets so that the console output contains only the main results. I can see cases where it may be inconvenient to scroll through hundreds of output lines and tweets to find a specific score. 
+
+* Another nice feature to add would be the ability to specify the desired number and range of dates for tweets. For example, in some cases users may only want to look at tweets within the last day. In other cases, users may only want a small number of tweets to be analyzed as opposed to hundreds.
+
+Great work overall! I really enjoyed going through your project!
