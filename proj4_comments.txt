@@ -1,0 +1,15 @@
+Hubert Lin
+hrlin@bu.edu
+Project 4 Code Review
+
+Feedback for Yiwei:
+
+Strengths/highlights
+
+* The code is very well organized and is easy to read. There is also plenty of documentation provided and the readme summarizes the project for those who are not familiar with what it does. Good job!
+
+* I like that the program is flexible in terms of user input, allowing for many possible results based on the hashtag the user is interested in. Being able to search for a specific hashtag is a very useful feature. Nice idea and implementation!
+
+* 
+
+Potential areas for improvement
